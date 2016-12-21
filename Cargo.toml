@@ -1,0 +1,6 @@
+[package]
+name = "png_decode-2016-12-08"
+version = "0.1.0"
+authors = ["Brian Manning <brian@xaoc.org>"]
+
+[dependencies]
