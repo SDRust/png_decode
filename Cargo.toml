@@ -1,6 +1,7 @@
 [package]
-name = "png_decode-2016-12-08"
+name = "png_decode"
 version = "0.1.0"
-authors = ["Brian Manning <brian@xaoc.org>"]
+authors = ["Sam Hughes and Team <https://github.com/srh>"]
 
 [dependencies]
+flate2 = "0.2"
